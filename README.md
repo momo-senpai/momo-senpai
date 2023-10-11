@@ -1,4 +1,3 @@
-Certainly! Here's a basic template for a README.md file that highlights your skills and projects:
 
 # Aditya Anandavasagan
 
