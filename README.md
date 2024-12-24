@@ -35,7 +35,7 @@ I am a passionate and experienced software engineer based in Mumbai, India. My e
 
 ## Certifications
 
-- Certificate of Japanese Language Proficiency N3 - Dec 2022
+- Certificate of Japanese Language Proficiency N2 - Jun 2023
 - AWS Cloud Technical Essentials - Jan 2023
 - Generative AI Learning Path by Google - June 2023
 
