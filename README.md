@@ -50,13 +50,10 @@ I am a passionate and experienced software engineer based in Mumbai, India. My e
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/adi-0810/
-- Email: aditya.anandavasagan@gmail.com
-- Phone: +91-9619245257
 
 Feel free to customize this template by adding more details about your experiences, achievements, and any other information you want to showcase in your README.md file. Remember to include links to your actual LinkedIn profile and other contact information.
 - 📫 How to find me :
     - :office: [LinkedIn](https://www.linkedin.com/in/adi-0810)
-    - :fish: [Twitter](https://twitter.com/Adi_forReal)
     
  
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=momo-senpai&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/momo-senpai/github-readme-stats)
