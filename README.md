@@ -2,7 +2,7 @@
 # Aditya Anandavasagan
 
 ## About Me
-I am a passionate and experienced software engineer based in Mumbai, India. My expertise lies in designing, developing, and deploying high-quality solutions using Python, Django, and Angular. I have a strong background in backend development and Machine Learning, with a keen interest in pushing the boundaries of technology.
+I am a passionate and experienced software engineer based in Tokyo, Japan. My expertise lies in designing, developing, and deploying high-quality solutions using Python, Django, Ruby on Rails and Angular. I have a strong background in backend development and Machine Learning, with a keen interest in pushing the boundaries of technology.
 
 ## Skills
 
@@ -50,10 +50,6 @@ I am a passionate and experienced software engineer based in Mumbai, India. My e
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/adi-0810/
-
-Feel free to customize this template by adding more details about your experiences, achievements, and any other information you want to showcase in your README.md file. Remember to include links to your actual LinkedIn profile and other contact information.
-- 📫 How to find me :
-    - :office: [LinkedIn](https://www.linkedin.com/in/adi-0810)
     
  
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=momo-senpai&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/momo-senpai/github-readme-stats)
